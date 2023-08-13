@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - randomize and print +ve or -ve
+ *  main - randomize and print +ve or -ve
  *
  * Return: Always 0 (Success)
  */
