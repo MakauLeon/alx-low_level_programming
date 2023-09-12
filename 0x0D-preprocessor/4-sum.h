@@ -1,6 +1,4 @@
-#ifndef _FUNCTION_LIKE_MACRO_
-#define _FUNCTION_LIKE_MACRO_
-
-#define ABS(x) ((x) < (0) ? ((x) * (-1)) : (x))
-
-#endif
+#ifndef FOUR_SUM_H
+#define FOUR_SUM_H
+#define SUM(x, y) ((x) + (y))
+#endif /* FOUR_SUM_H */
